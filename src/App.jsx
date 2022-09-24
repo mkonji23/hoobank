@@ -9,7 +9,7 @@ import {   Stats
  ,  Navbar
  ,  Hero 
  ,  Footer } from './components';
-
+// 시벌
 export const App = () => (
     <div className='bg-primary w-full overflow-hidden'>
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
